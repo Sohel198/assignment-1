@@ -92,3 +92,10 @@ about{
     padding: 113px 125px;
     text-align: center;
 }
+/* card style start */
+#card-title{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+/* card style end */
